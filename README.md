@@ -1,24 +1,10 @@
-<!--[![some image](./assets/GitHubHeader.png)](127.0.0.1)-->
 [![Banner](./Assets/Banner.jpg)]()
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
 
-<style>
-    * {
-        font-family: Ubuntu, sans-serif;
-    }
-    p {
-        
-    }
-    h1 {
-        color: cadetblue;
-    }
-    h2 {
-        color: rebeccapurple;
-    }
-</style>
+<link rel="stylesheet" type="text/css" media="all" href="./Assets/ProfileTheme.css" />
 
 # Welcome
 
@@ -66,3 +52,5 @@ Should you pre
 
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card" target="__blank">
 Credit for these Awesomely Designed Stats</a>
+
+</html>

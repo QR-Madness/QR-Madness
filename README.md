@@ -30,9 +30,7 @@ of issues.
 It's currently under wraps as R&D is conducted by JNT and is to be released Q3 or Q4 of 2024, on the JNT marketplace.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=QR-Madness&show_icons=true&theme=highcontrast)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness)
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=QR-Madness&langs_count=6&theme=tokyonight&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=20)
 
 <!--
 # Contact

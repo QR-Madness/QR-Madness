@@ -10,7 +10,7 @@ I work primarily with cloud technologies and highly networked systems.
 My preferred style of architecture is decoupling services and focusing on integrations rather than dependencies,
 speaking abstractly.
 
-# My Language Ranks (up to 3/2024)
+# My Language Ranks (since 3/24)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=20)
 

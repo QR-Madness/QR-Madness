@@ -12,7 +12,7 @@ speaking abstractly.
 
 # My Language Ranks (since 3/24)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=20)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=12)
 
 # Large-Scale Projects
 
@@ -20,13 +20,12 @@ Check out some of the ideas, or implementations of my favorite projects.
 I have dozens of projects in the works, however, not many are public, and time is a critical issue,
 of which personally, is temporarily in short demand.
 
-## Estate Sentry (ES)
 
-[Open Repository](https://github.com/QR-Madness/estate-sentry)
+## Passage - Open-Source Identity Federation Platform
 
-Estate Sentry's goal is to provide a residential threat monitoring system for the people.
-Utilizing primarily Python, and JavaScript, ETS will be an extremely intuitive, modular, and high-security architecture
-built for the purpose of ultimate continuity of provided security.
+[Open Repository](https://github.com/QR-Madness/passage)
+
+Managing identity frameworks is cumbersome across various teams within an engineering roster. By choosing to embrach monotlith authentication pillars.
 
 ## JNT - Critical Personal Data Solution
 
@@ -37,6 +36,16 @@ Recognizing the ever-evolving definition of 'critical' personal data, ███�
 of issues.
 
 It's currently under wraps as R&D is conducted by JNT and is to be released Q2 of 2025, on the JNT marketplace.
+
+## Estate Sentry (ES)
+
+[Open Repository](https://github.com/QR-Madness/estate-sentry)
+
+Estate Sentry's goal is to provide a residential threat monitoring system for the people.
+Utilizing primarily Python, and JavaScript, ETS will be an extremely intuitive, modular, and high-security architecture
+built for the purpose of ultimate continuity of provided security.
+
+Focused on single-shot action recognition frameworks, this application aims to bring the bleeding edge to the common household.
 
 # Micro Projects
 

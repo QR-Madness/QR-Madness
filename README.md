@@ -12,14 +12,13 @@ speaking abstractly.
 
 # My Language Ranks (since 3/24)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=12)
+![WakaTime stats](forked-github-readme-stats-alpha.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=12)
 
 # Large-Scale Projects
 
 Check out some of the ideas, or implementations of my favorite projects.
 I have dozens of projects in the works, however, not many are public, and time is a critical issue,
 of which personally, is temporarily in short demand.
-
 
 ## Passage - Open-Source Identity Federation Platform
 
@@ -47,7 +46,19 @@ built for the purpose of ultimate continuity of provided security.
 
 Focused on single-shot action recognition frameworks, this application aims to bring the bleeding edge to the common household.
 
+# AI Pair-Programmed Projects
+
+Using various AI models a pair-programmer with rotating roles, high-value projects can be prototyped and brought into production at ferocious speeds.
+
+## Diagrammer
+
+[Open Repository](https://github.com/QR-Madness/diagrammer)
+
+A no-frills open-source diagramming tool designed to for high-performance and zero-confusion.
+
 # Micro Projects
+
+Smaller projects that end up on the backburner, but are always in the back of the mind.
 
 ## PyCryption
 
@@ -62,18 +73,8 @@ utilization of scientific/mathematical exploratory tools.
 
 A fun Python taskbar app that shows resources. Minimal overhead, minimal setup, minimal fuss.
 
-
-<!--
-# Contact
-I have a public-facing email here:
-
-## PGP Signature
-Should you pre
--->
-
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
 Credit for these Awesomely Designed Stats
 </a>
-

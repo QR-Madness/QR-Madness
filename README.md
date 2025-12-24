@@ -12,7 +12,7 @@ speaking abstractly.
 
 # My Language Ranks (since 3/24)
 
-![WakaTime stats](forked-github-readme-stats-alpha.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=12)
+![WakaTime stats](https://forked-github-readme-stats-alpha.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=12)
 
 # Large-Scale Projects
 

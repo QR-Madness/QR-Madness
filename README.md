@@ -44,7 +44,7 @@ speaking abstractly.
 
 ![WakaTime stats](https://forked-github-readme-stats-alpha.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=8&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QR-Madness&theme=highcontrast&hide_border=true&background=0d1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QR-Madness&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff)
 
 </div>
 
@@ -140,7 +140,7 @@ A fun Python taskbar app that shows resources. Minimal overhead, minimal setup, 
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QR-Madness&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff)
+![GitHub stats](https://forked-github-readme-stats-alpha.vercel.app/api?username=QR-Madness&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <br>
 

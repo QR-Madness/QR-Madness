@@ -109,6 +109,14 @@ A no-frills open-source diagramming tool designed for high-performance and zero-
 
 </details>
 
+<details>
+<summary><b>🤖 AgentX</b> — </summary>
+
+[![Repo](https://img.shields.io/badge/Repository-AgentX-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/agentx)
+
+An experimental agentic platform with rich memory databases and tool capabilities, following an offline-first perspective with cloud offloading. 
+
+</details>
 ---
 
 ## `> projects --micro`

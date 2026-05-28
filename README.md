@@ -38,11 +38,9 @@ speaking abstractly.
 
 ---
 
-## `> stats`
+## `> activity`
 
 <div align="center">
-
-![WakaTime stats](https://forked-github-readme-stats-alpha.vercel.app/api/wakatime?theme=highcontrast&username=@QRMadness&langs_count=8&hide_border=true&bg_color=0d1117)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QR-Madness&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff)
 
@@ -50,118 +48,135 @@ speaking abstractly.
 
 ---
 
-## `> projects --featured`
+## `> projects --security`
 
-Check out some of the ideas, or implementations of my favorite projects.
-I have dozens of projects in the works, however, not many are public, and time is a critical issue,
-of which personally, is temporarily in short demand.
+Identity, privacy, and threat-intelligence work &mdash; the core of what I build.
+I have dozens of projects in the works; not many are public, and time is in short demand.
+
+<sub><i>The cards below are regenerated from live repository data &mdash; see <code>profile/projects.yml</code>.</i></sub>
+
+<!-- PROJECTS:security:START -->
 
 <details>
-<summary><b>🔐 Passage</b> — Open-Source Identity Federation Platform</summary>
+<summary><code>[LIVE]</code> <b>passage</b> &mdash; open-source identity federation</summary>
 <br>
 
-[![Repo](https://img.shields.io/badge/Repository-Passage-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/passage)
+[![Repo](https://img.shields.io/badge/Repository-passage-00ff00?style=for-the-badge&logo=github)](https://github.com/JPE-Net-Technologies/passage)
 
-Managing identity frameworks is cumbersome across various teams within an engineering roster. Passage aims to simplify this by embracing unified authentication architecture.
+An open-source OAuth2-based identity federation platform specializing in supporting strong identity networks of any topology.
 
 </details>
 
 <details>
-<summary><b>🛡️ JNT</b> — Critical Personal Data Solution</summary>
+<summary><code>[R&D]</code> <b>JNT</b> &mdash; critical personal data solution</summary>
 <br>
 
-`[CLASSIFIED]` — Currently under active R&D
+`[CLASSIFIED]` &mdash; under active R&D
 
-The system works to drastically bolster personal digital security by securing critical personal data.
-Recognizing the ever-evolving definition of 'critical' personal data, this project aims to carve a path in a dense forest of issues.
+Drastically bolsters personal digital security by securing critical personal data. Recognizing the ever-evolving definition of "critical" personal data, the project carves a path through a dense forest of issues.
 
 </details>
 
 <details>
-<summary><b>🏠 Estate Sentry</b> — Residential Threat Monitoring</summary>
+<summary><code>[POC]</code> <b>estate-sentry</b> &mdash; residential threat monitoring</summary>
 <br>
 
-[![Repo](https://img.shields.io/badge/Repository-Estate_Sentry-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/estate-sentry)
+[![Repo](https://img.shields.io/badge/Repository-estate--sentry-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/estate-sentry)
 
-`[EARLY PROOF-OF-CONCEPT]` — Currently under active construction
-
-Estate Sentry's goal is to provide a residential threat monitoring system for the people.
-Utilizing primarily Python and JavaScript, this early-stage architecture explores intuitive, modular, and high-security patterns
-for ultimate continuity of provided security.
-
-Focused on single-shot action recognition frameworks, this proof-of-concept aims to bring the bleeding edge to the common household.
+Nonfunctional Prototype: Estate/property threat-intelligence system; uses ML/AI to drive inference and observe external events.
 
 </details>
+
+<details>
+<summary><code>[RESEARCH]</code> <b>pycryption</b> &mdash; encryption research in Python</summary>
+<br>
+
+[![Repo](https://img.shields.io/badge/Repository-pycryption-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/pycryption)
+
+My open-sourced research into encryption with technical notes and historical context. Proprietary encryption techniques excluded.
+
+</details>
+
+<!-- PROJECTS:security:END -->
 
 ---
 
-## `> projects --ai-paired`
+## `> projects --ai`
 
-Using various AI models as a pair-programmer with rotating roles, high-value projects can be prototyped and brought into production at ferocious speeds.
+Agentic systems and the philosophy of building with them &mdash; prototyped and pushed toward production at ferocious speed.
+
+<!-- PROJECTS:ai:START -->
 
 <details>
-<summary><b>📊 Diagrammer</b> — Zero-Confusion Diagramming</summary>
+<summary><code>[PROTO]</code> <b>agentx</b> &mdash; agentic meta-intelligence layer</summary>
 <br>
 
-[![Repo](https://img.shields.io/badge/Repository-Diagrammer-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/diagrammer)
+[![Repo](https://img.shields.io/badge/Repository-agentx-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/agentx)
 
-A no-frills open-source diagramming tool designed for high-performance and zero-confusion.
+"Meta-intelligence layer" built in Django, Tauri, and React. Prototype multi-agent harness built to plan, analyze, and execute; memory stack included. Not built to code. AgentX aims for greatness. Why named "AgentX"? It has no name; it is what you make it.
 
 </details>
 
 <details>
-<summary><b>🤖 AgentX</b> — Agentic Platform Prototype</summary>
+<summary><code>[LIVE]</code> <b>hac-initiative</b> &mdash; high-agency coding</summary>
+<br>
 
-[![Repo](https://img.shields.io/badge/Repository-AgentX-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/agentx)
+[![Repo](https://img.shields.io/badge/Repository-hac--initiative-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/hac-initiative)
 
-An experimental agentic platform with rich memory databases and tool capabilities, following an offline-first perspective with cloud offloading. 
+The HAC initative is not as cool as it sounds, unfortunately but nonetheless is imporant. HAC stands for High-Agency Coding, which is the coding of the future. Likely of the 21st AND 22nd century.
 
 </details>
+
+<!-- PROJECTS:ai:END -->
+
 ---
 
-## `> projects --micro`
+## `> projects --tools`
 
-Smaller projects that end up on the backburner, but are always in the back of the mind.
+Developer tooling and utilities &mdash; smaller in scope, always in the back of the mind.
+
+<!-- PROJECTS:tools:START -->
 
 <details>
-<summary><b>🔒 PyCryption</b> — Python Encryption Library</summary>
+<summary><code>[LIVE]</code> <b>docushark</b> &mdash; zero-confusion diagramming</summary>
 <br>
 
-[![Repo](https://img.shields.io/badge/Repository-PyCryption-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/pycryption)
+[![Repo](https://img.shields.io/badge/Repository-docushark-00ff00?style=for-the-badge&logo=github)](https://github.com/JPE-Net-Technologies/docushark)
 
-My library of encryption techniques for native Python, they're contained within Jupyter Notebooks for optimal
-utilization of scientific/mathematical exploratory tools.
+Thinking without overhead! Open-source diagramming shouldn’t be this hard (and costly). DocuShark a no-frills, everyone-friendly way to create notes, docs, and diagrams that don’t fight you. Free for all, forever.
 
 </details>
 
 <details>
-<summary><b>📈 L3P</b> — Low-Profile Performance Profiler</summary>
+<summary><code>[LIVE]</code> <b>Tunneler</b> &mdash; SSH tunnels on the go</summary>
+<br>
+
+[![Repo](https://img.shields.io/badge/Repository-Tunneler-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/Tunneler)
+
+Tunneller is an open-source SSH-tunneling program to construct & manage SSH tunnels on the go.
+
+</details>
+
+<details>
+<summary><code>[IDLE]</code> <b>L3P</b> &mdash; low-profile performance profiler</summary>
 <br>
 
 [![Repo](https://img.shields.io/badge/Repository-L3P-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/LowProfilePerformanceProfile)
 
-A fun Python taskbar app that shows resources. Minimal overhead, minimal setup, minimal fuss.
+Lightweight resource profiler running within your taskbar.
 
 </details>
+
+<!-- PROJECTS:tools:END -->
 
 ---
 
 <div align="center">
-
-![GitHub stats](https://forked-github-readme-stats-alpha.vercel.app/api?username=QR-Madness&show_icons=true&theme=dark#gh-dark-mode-only)
-
-<br>
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  "Decoupled systems, integrated solutions."                  │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-<sub>
-
-[![Stats Credit](https://img.shields.io/badge/Stats_by-Anurag_Hazra-00ff00?style=flat-square)](https://github.com/anuraghazra/github-readme-stats)
-
-</sub>
 
 </div>

@@ -1,0 +1,69 @@
+# Source of truth for the project cards in README.md.
+#
+# Edit this file to control what shows up. The refresh workflow regenerates the
+# card blocks in README.md from here, pulling each repo's live description /
+# language / archived state from GitHub, so entries can never go stale.
+#
+# Fields per entry:
+#   name     display name shown in the card (required)
+#   repo     "owner/name" to pull live data, or "classified" for private work (required)
+#   status   terminal-style tag: LIVE | R&D | POC | PROTO | RESEARCH | IDLE (required)
+#   tagline  short phrase after the em-dash in the summary line (required)
+#   body     manual description; only used when repo is "classified"
+#            (for real repos the live GitHub description is used instead)
+#
+# Top-level keys are categories. Each maps to a <!-- PROJECTS:<key>:START/END -->
+# marker block in README.md and renders as a `> projects --<key>` section.
+# To add a category: add a key here AND a matching marker block in the README.
+
+security:
+  - name: passage
+    repo: JPE-Net-Technologies/passage
+    status: LIVE
+    tagline: open-source identity federation
+
+  - name: JNT
+    repo: classified
+    status: R&D
+    tagline: critical personal data solution
+    body: >-
+      Drastically bolsters personal digital security by securing critical
+      personal data. Recognizing the ever-evolving definition of "critical"
+      personal data, the project carves a path through a dense forest of issues.
+
+  - name: estate-sentry
+    repo: QR-Madness/estate-sentry
+    status: POC
+    tagline: residential threat monitoring
+
+  - name: pycryption
+    repo: QR-Madness/pycryption
+    status: RESEARCH
+    tagline: encryption research in Python
+
+ai:
+  - name: agentx
+    repo: QR-Madness/agentx
+    status: PROTO
+    tagline: agentic meta-intelligence layer
+
+  - name: hac-initiative
+    repo: QR-Madness/hac-initiative
+    status: LIVE
+    tagline: high-agency coding
+
+tools:
+  - name: docushark
+    repo: JPE-Net-Technologies/docushark
+    status: LIVE
+    tagline: zero-confusion diagramming
+
+  - name: Tunneler
+    repo: QR-Madness/Tunneler
+    status: LIVE
+    tagline: SSH tunnels on the go
+
+  - name: L3P
+    repo: QR-Madness/LowProfilePerformanceProfile
+    status: IDLE
+    tagline: low-profile performance profiler

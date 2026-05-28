@@ -1,0 +1,49 @@
+name: Refresh README
+
+on:
+  schedule:
+    - cron: "17 6 * * *"  # daily, 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "profile/projects.yml"
+      - "profile/generate.py"
+      - ".github/workflows/refresh-readme.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-readme
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Regenerate project cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python profile/generate.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh project cards from live repo data"
+          git push

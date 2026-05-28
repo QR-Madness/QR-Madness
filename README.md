@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Banner](./Assets/Banner.jpg)]()
+[![Banner](./Assets/Banner-2.jpg)]()
 
 <br>
 

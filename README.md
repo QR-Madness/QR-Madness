@@ -113,7 +113,7 @@ Agentic systems and the philosophy of building with them &mdash; prototyped and 
 
 [![Repo](https://img.shields.io/badge/Repository-agentx-00ff00?style=for-the-badge&logo=github)](https://github.com/QR-Madness/agentx)
 
-"Meta-intelligence layer" built in Django, Tauri, and React. Prototype multi-agent harness built to plan, analyze, and execute; memory stack included. Not built to code. AgentX aims for greatness. Why named "AgentX"? It has no name; it is what you make it.
+A meta-intelligence layer for AI agents — Django API, Tauri + React 19 client. Agents that plan, reason, delegate, and remember across a graph + vector memory stack, present rich typed content, and wield MCP tools. Built to think, not to code. Why "AgentX"? It has no name; it is what you make it.
 
 </details>
 
